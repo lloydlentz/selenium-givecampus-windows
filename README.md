@@ -12,3 +12,6 @@
   - `cd selenium-givecampus-windows`
   - `python .\fetchgivecampusdata.py`
 
+## Thanks
+ to Patrick Sanchez at [University of St. Thomas](https://stthomas.edu/give/) for doing most of the heavy lifting.
+
