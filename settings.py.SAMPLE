@@ -1,0 +1,7 @@
+# settings.py
+CHROME_PATH = 'C:\Program Files (x86)\Google\Chrome\Application\chrome.exe'
+CHROMEDRIVER_PATH = 'C:\Users\lentz\Apps\chromedriver.exe'
+download_dir = "d:\\Downloads"
+WINDOW_SIZE = "1080,720"
+user = "YOURACCOUNT"
+pwd = "YOURPASSWORD"
